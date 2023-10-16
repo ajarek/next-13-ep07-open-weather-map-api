@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img width="300" alt="Zrzut ekranu 2023-10-16 230805" src="https://github.com/ajarek/next-13-ep07-open-weather-map-api/assets/61388692/436cc320-bb25-4024-bf48-294c1b4ff7ac">
+
+<img width="150" alt="Zrzut ekranu 2023-10-16 230932" src="https://github.com/ajarek/next-13-ep07-open-weather-map-api/assets/61388692/2f002f60-7f85-48d8-910c-af9cebff8a13">
+
+
 *added .env :KEY_OPENWEATHERMAP=''
 
 ## Getting Started
