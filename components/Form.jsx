@@ -9,7 +9,7 @@ const Form = ({ handleSubmit }) => {
     >
       <input
         type='text'
-        placeholder='Type here'
+        placeholder='City name...'
         autoFocus
         className='input '
       />
